@@ -11,9 +11,11 @@ https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and
 ## Beginner Level
 
 https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://www.guru99.com/machine-learning-tutorial.html
+https://www.youtube.com/watch?v=wQ8BIBpya2k
 
 ## Intermediate Level
-
+https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners
 https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
 
 ## Advanced Level
