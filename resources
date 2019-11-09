@@ -1,8 +1,48 @@
-Neuroscience and BCIs:
+# Resources
+
+## Keras:
+https://www.infoworld.com/article/3336192/what-is-keras-the-deep-neural-network-api-explained.html
+https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2
+
+## Neuroscience and BCIs:
 https://neurotechx.com/
 https://towardsdatascience.com/a-beginners-guide-to-brain-computer-interface-and-convolutional-neural-networks-9f35bd4af948
 
-Deep Learning with python tensorflow/keras/numpy/matplotlib/pandas:
-Keras:
-https://www.infoworld.com/article/3336192/what-is-keras-the-deep-neural-network-api-explained.html
-https://www.youtube.com/watch?v=j-3vuBynnOE&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN&index=2
+## Beginner Level
+
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+## Intermediate Level
+
+https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+
+## Advanced Level
+
+
+
+
+### Prerequisites
+
+What software you need to install:
+
+Python
+Tensorflow
+Keras
+Pandas
+Matplotlib
+Scikit-learn
+
+
+## Authors
+
+* **Carlo & Nick** *
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* University of Sheffield Artificial Intelligence and Bionics Society
+
