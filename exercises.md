@@ -5,10 +5,12 @@
 Sentiment Analysis- write a python script that uses ANNs to determine whether a tweet is from Neil Degrass Tyson or Bill Nye.
 
 ### Steps for this project:
-*  We'll provide you with a dataset of 400 tweets from each of them (Neil and Bill) (half for trainig and rest for testing)
+* Dataset roughly 5000 tweets from each of them found on the dataset folder (half for trainig and rest for testing)
 * Find a python library to put the textual data into an appropiate format for a neural net &nbsp;
 * Train a ANN to classify whether a tweet is from Neil or Bill &nbsp;
 * Testing (find out the percentage of accuracy of your neural net)&nbsp;
+
+NOTE: Make sure you don't use all the tweets for training as the model will just overfit effectively memorising the whole dataset. Instead use about at most half the tweets for training and the other half for training the accuracy of your model.
 ## Week 2
 
 Upcoming...
